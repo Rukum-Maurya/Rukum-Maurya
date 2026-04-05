@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rukum-maurya">
+  <a href="https://www.linkedin.com/in/rukummaurya">
     <img src="https://img.shields.io/badge/LinkedIn-Rukum%20Maurya-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Rukum-Maurya">
