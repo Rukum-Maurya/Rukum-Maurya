@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Data Engineer in Progress | Python • SQL • PostgreSQL • ETL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+real-world+ETL+pipelines;Python+%7C+SQL+%7C+PostgreSQL;QA+to+Data+Engineering+journey;Learning+by+building+real+projects&center=true&width=700&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+real-world+ETL+pipelines;Python+%7C+SQL+%7C+PostgreSQL+%7CTableau;QA+to+Data+Engineering+journey;Learning+by+building+real+projects&center=true&width=700&height=50">
 </p>
 
 <p align="center">
